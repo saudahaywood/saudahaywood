@@ -38,7 +38,8 @@
   - Investigated **socioeconomic and demographic factors contributing to obesity**.
   - Built **classification models** to predict obesity risk and identify **key influencing factors**.
   - **Biostatistics methods:** Logistic Regression, Confidence Intervals.
-  - [🔗 View Project](git clone https://github.com/yourusername/obesity-prediction.git)
+  - https://github.com/saudahaywood/Predicting-the-Development-of-Obesity-Based-on-Lifestyle
+
 - **Amazon Stock Price Prediction (Time Series Analysis)**  
   - Developed **time series forecasting models** (ARIMA) to predict Amazon stock prices.
   - Evaluated performance using **RMSE and MAE**.
