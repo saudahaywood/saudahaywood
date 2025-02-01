@@ -58,14 +58,6 @@
 
 ---
 
-## 📚 Featured Articles & Reports  
-
-- **[How Biostatistics Helps Predict Disease Outbreaks](https://yourwebsite.com/biostatistics-disease-prediction)**
-- **[Machine Learning in Food Safety: Predicting Contamination Risks](https://yourwebsite.com/food-safety-ml)**
-- **[Epidemiology & Data Science: Lessons from COVID-19](https://yourwebsite.com/covid19-biostatistics)**  
-
----
-
 <!--
 **yourgithub/yourgithub** is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
 -->
