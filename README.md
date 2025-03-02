@@ -38,7 +38,7 @@
   - Conducted **descriptive statistics, histograms, and correlation analysis**.
   - Performed **hypothesis testing and logistic regression** to assess the impact of pregnancy frequency on diabetes.
   - **Pipeline:** Data cleaning, statistical analysis, and visualization.
-  - [🔗 View Project]((https://github.com/saudahaywood/9.-Link-Between-Pregnancy-Frequency-and-Diabetes.pdf))
+  - [🔗 View Project](https://github.com/saudahaywood/9.-Link-Between-Pregnancy-Frequency-and-Diabetes.pdf)
 
 - **Epidemiology Study: Obesity Prediction Using Public Health Data**  
   - Investigated **socioeconomic and demographic factors contributing to obesity**.
