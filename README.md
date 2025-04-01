@@ -17,7 +17,7 @@
 
 ### **Senior Microbiologist / Chemist**  
 **Tyson Foods, Amarillo, Texas**  
-*September 2016 - Present*  
+*September 2016 - January 2025*  
 - Conduct **biostatistical analysis** on microbial testing data to monitor food safety trends.
 - Perform **pathogen testing** for **E. coli O157:H7, Salmonella, Listeria, and Top 6 STEC**.
 - Analyze **fat, moisture, and protein** content in meat and byproducts.
