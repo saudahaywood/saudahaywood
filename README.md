@@ -32,6 +32,13 @@
   - Conducted **exploratory data analysis** to study **correlations between pregnancy, BMI, glucose levels, and diabetes prevalence**.
   - **Biostatistics methods:** Odds Ratios, Chi-Square tests, ROC curves.
   - [🔗 View Project](https://github.com/saudahaywood/8.-Predicting-Diabetes-Using-Medical-Records-Data)
+    
+- **Amazon Stock Data Pipeline**  
+  - Designed an **end-to-end data pipeline** for analyzing Amazon stock data.
+  - Used **NiFi, HDFS, Hive, and PySpark** for data ingestion, storage, and analysis.
+  - **Performed analysis on stock prices, trade volumes, and trends**.
+  - **Resolved issues** related to data flow, table creation, and system crashes.
+  - [🔗 View Project](https://github.com/saudahaywood/Amazon-Stock-Data-Pipeline-)
 
 - **Exploring the Link Between Pregnancy Frequency and Diabetes**  
   - Investigated the correlation between **pregnancy count and diabetes risk**.
@@ -51,13 +58,6 @@
   - Evaluated performance using **RMSE and MAE**.
   - **Pipeline:** NiFi → HDFS → Hive → Spark (PySpark for processing and modeling)
   - [🔗 View Project](https://github.com/saudahaywood/-Forecasting-Amazon-Stocks-Prices)
-
-- **Amazon Stock Data Pipeline**  
-  - Designed an **end-to-end data pipeline** for analyzing Amazon stock data.
-  - Used **NiFi, HDFS, Hive, and PySpark** for data ingestion, storage, and analysis.
-  - **Performed analysis on stock prices, trade volumes, and trends**.
-  - **Resolved issues** related to data flow, table creation, and system crashes.
-  - [🔗 View Project](https://github.com/saudahaywood/Amazon-Stock-Data-Pipeline-)
 
 - **COVID-19 Data Analysis Project**  
   - Analyzed **global COVID-19 trends** to identify patterns in cases, deaths, and recoveries.
