@@ -1,7 +1,7 @@
 <h1>Hi, I'm Sauda! <br/><a href="https://github.com/yourgithub">Biochemist</a>, <a href="https://www.linkedin.com/in/yourlinkedin/">Data Scientist</a>, <a href="https://ellessboutique.com">Biostatistics Enthusiast</a></h1>
 
 ## 🎓 Education
-- **Master of Science in Data Science** - Bellevue University, Bellevue, Nebraska (Expected March 2025)
+- **Master of Science in Data Science** - Bellevue University, Bellevue, Nebraska (March 2025)
 - **Bachelor of Science in Biochemistry** - Oklahoma Christian University, Edmond, Oklahoma (May 2016)
 
 ## 🔬 Areas of Interest
@@ -40,7 +40,7 @@
   - **Pipeline:** Data cleaning, statistical analysis, and visualization.
   - [🔗 View Project](https://github.com/saudahaywood/9.-Link-Between-Pregnancy-Frequency-and-Diabetes.pdf)
 
-- **Epidemiology Study: Obesity Prediction Using Public Health Data**  
+- **Obesity Prediction Using Public Health Data**  
   - Investigated **socioeconomic and demographic factors contributing to obesity**.
   - Built **classification models** to predict obesity risk and identify **key influencing factors**.
   - **Biostatistics methods:** Logistic Regression, Confidence Intervals.
