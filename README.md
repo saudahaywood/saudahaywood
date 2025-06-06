@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sauda! <br/><a href="https://github.com/yourgithub">Biochemist</a>, <a href="https://www.linkedin.com/in/yourlinkedin/">Data Scientist</a>, <a href="https://ellessboutique.com">Biostatistics Enthusiast</a></h1>
+<h1>Hi, I'm Sauda!
 
 ## 🎓 Education
 - **Master of Science in Data Science** - Bellevue University, Bellevue, Nebraska (March 2025)
