@@ -5,11 +5,10 @@
 - **Bachelor of Science in Biochemistry** - Oklahoma Christian University, Edmond, Oklahoma (May 2016)
 
 ## 🔬 Areas of Interest
-- **Biostatistics & Epidemiology**
-- **Predictive Analytics in Healthcare & Life Sciences**
-- **Machine Learning for Medical & Public Health Applications**
 - **Food Safety, Microbiology, & Quality Control**
-- **Data-Driven Solutions for Public Health Challenges**
+- **Machine Learning for Public Health Applications**
+- **Predictive Analytics**
+- **Biostatistics**
 
 ---
 
