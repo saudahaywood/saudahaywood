@@ -5,7 +5,7 @@
 - **Bachelor of Science in Biochemistry** - Oklahoma Christian University, Edmond, Oklahoma (May 2016)
 
 ## 🔬 Areas of Interest
-- **Food Safety, Microbiology, & Quality Control**
+- **Food Safety, Microbiology & Quality Control**
 - **Machine Learning for Public Health Applications**
 - **Predictive Analytics**
 - **Biostatistics**
